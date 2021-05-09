@@ -4,7 +4,7 @@
 
 from random import *
 
-array = [randint(0, 50) for i in range(10)]
+array = [randint(0, 51) for i in range(10)]
 
 shuffle(array)
 print(array)

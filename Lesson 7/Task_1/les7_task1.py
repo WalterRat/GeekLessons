@@ -6,7 +6,7 @@
 """
 from random import *
 
-array = [randint(-100, 100) for i in range(10)]
+array = [randint(-100, 101) for i in range(10)]
 
 shuffle(array)
 print(array)
