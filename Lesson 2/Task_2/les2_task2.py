@@ -10,3 +10,5 @@ def reverse(num):
 
 
 print(reverse(int(input("Введите число: "))))
+
+
